@@ -7,13 +7,12 @@
 
 子曰 ：加我数年 五十以学易 可以无大过矣
 ![avatar](icon-60@3x.png)
-### app下载
 
-#### 苹果（IOS）商店（app store）
+### 苹果（IOS）商店（app store）
 - [普通版](https://apps.apple.com/cn/app/学易/id1316867213)
 - [专业版](https://apps.apple.com/cn/app/学易-专业版/id1457421921)
 
-#### 安卓
+### 安卓
 - [国内（酷安市场）](https://www.coolapk.com/apk/168854) 你的手机需要先安装卓酷安市场app。
 - [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 
