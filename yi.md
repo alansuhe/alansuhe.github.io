@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 学易app
 
-You can use the [editor on GitHub](https://github.com/alansuhe/alansuhe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```
+(提示：如果您在微信里访问本页，请点右上角三个小点，选择：在浏览器打开)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+子曰 ：加我数年 五十以学易 可以无大过矣
+![avatar](icon-60@3x.png)
+### app下载
 
-### Jekyll Themes
+#### 苹果（IOS）商店（app store）
+- [普通版](https://apps.apple.com/cn/app/学易/id1316867213)
+- [专业版](https://apps.apple.com/cn/app/学易-专业版/id1457421921)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alansuhe/alansuhe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 安卓
+- [国内（酷安市场）](https://www.coolapk.com/apk/168854) 你的手机需要先安装卓酷安市场app。
+- [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 
-### Support or Contact
+### 功能特点
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 回归周易原典，实用决策辅助。
+
+- 简明直接，去芜存精，上溯春秋古风。
+
+- 本app可实现六十四卦易经原文分析查询，卦象快速切换，每一卦象解析详尽。是学易算卦之人的随身好帮手。
+
+- 算卦的计算原则和几率完全与传统五十蓍草法一致。
+
+- 算卦时可选择主题或录入问题，app自动记录和管理历史。
