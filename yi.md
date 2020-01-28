@@ -10,7 +10,8 @@ title: 学易
 ```
 
 子曰 ：加我数年 五十以学易 可以无大过矣
-![avatar](icon-60@3x.png)
+
+![avatar](/img/icon-60@3x.png)
 
 ### 苹果（IOS）商店（app store）
 - [普通版](https://apps.apple.com/cn/app/学易/id1316867213) 免费
