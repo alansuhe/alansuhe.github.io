@@ -18,7 +18,7 @@ title: 学易
 - [专业版](https://apps.apple.com/cn/app/学易-专业版/id1457421921) 无内购，无广告
 
 ### 安卓
-- [中国大陆（酷安市场）](https://www.coolapk.com/apk/168854) 你的手机需要先安装卓酷安市场app。
+- [中国大陆（酷安市场）](https://www.coolapk.com/apk/168854) 你的手机需要先安装酷安市场app。
 - [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 
 ### 功能特点
