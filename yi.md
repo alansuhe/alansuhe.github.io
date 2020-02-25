@@ -34,4 +34,4 @@ title: 学易
 - 算卦时可选择主题或录入问题，app自动记录和管理历史。
 
 
-[隐私政策](yi-private-info.md)
+[隐私政策](yi-private-info.md) | [学易微博](https://weibo.com/vivotown)
