@@ -17,9 +17,9 @@ title: 学易
 - [普通版](https://apps.apple.com/cn/app/学易/id1316867213) 免费
 - [专业版](https://apps.apple.com/cn/app/学易-专业版/id1457421921) 无内购，无广告
 
-### 安卓
-- [中国大陆（酷安市场）](https://www.coolapk.com/apk/168854) 你的手机需要先安装酷安市场app。
+### 安卓（Android）
 - [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
+- [中国大陆（酷安市场）](https://www.coolapk.com/apk/168854) 你的手机需要先安装酷安市场app。
 
 ### 功能特点
 
@@ -34,4 +34,4 @@ title: 学易
 - 算卦时可选择主题或录入问题，app自动记录和管理历史。
 
 
-[隐私政策](yi-private-info.md) | [学易微博](https://weibo.com/vivotown)
+[隐私政策](yi-private-info.md) | [学易微博](https://weibo.com/vivotown)| [Instagram](https://www.instagram.com/yi.app)
