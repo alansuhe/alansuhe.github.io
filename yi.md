@@ -33,5 +33,7 @@ title: 学易
 
 - 算卦时可选择主题或录入问题，app自动记录和管理历史。
 
+- 趣味小游戏：画卦象 / 猜卦名，让你更快掌握和记忆六十四卦的结构。
+
 
 [隐私政策](yi-private-info.md) | [学易微博](https://weibo.com/vivotown)| [Instagram](https://www.instagram.com/yi.app)
