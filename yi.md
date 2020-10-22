@@ -15,6 +15,7 @@ title: 学易
 
 ### 苹果（IOS）商店（app store）
 - [通用版](https://apps.apple.com/cn/app/学易/id1533516434) 免费
+- [专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 无内购无广告
 
 ### 安卓（Android）
 - [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
