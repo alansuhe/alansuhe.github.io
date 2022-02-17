@@ -23,7 +23,7 @@ title: 学易
 ### 安卓（Android）
 - [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 - [中国大陆: 酷安市场](https://www.coolapk.com/apk/168854) 你的手机需要先安装酷安市场app。
-- [中国大陆: 腾讯应用宝](https://android.myapp.com/myapp/detail.htm?apkName=me.suhe.yi&info=C2E3E9A9DC0A1D34F33818F37FA46B68) 你的手机需要先安装应用宝app。
+- [中国大陆: 腾讯应用宝](https://a.app.qq.com/o/simple.jsp?pkgname=me.suhe.yi) 你的手机需要先安装应用宝app。
 
 ### 功能特点
 
