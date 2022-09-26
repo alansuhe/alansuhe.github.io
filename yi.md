@@ -12,9 +12,9 @@ title: 学易
 
 - 子曰 ：加我数年 五十以学易 可以无大过矣
 
-<font color="#468C8C">周易算卦其实不难</font>
+<font color="#468C8C">周易学习和算卦随身助手</font>
 
-![avatar](/img/icon-60@3x.png)
+![avatar](/img/icon-60@3x.png) ![avatar](/img/180.png) ![avatar](/img/180-pro.png)
 
 ### 苹果（IOS）商店（app store）
 - [通用版](https://apps.apple.com/cn/app/学易/id1533516434) 免费
@@ -27,19 +27,19 @@ title: 学易
 
 ### 功能特点
 
+宗旨：
 - 回归周易原典，实用决策辅助。
-
 - 简明直接，去芜存精，上溯春秋古风。
 
-- 本app可实现六十四卦易经原文分析查询，卦象快速切换，每一卦象解析详尽。是学易算卦之人的随身好帮手。
+本app可实现六十四卦易经原文分析查询，卦象快速切换，每一卦象解析详尽。是学易算卦之人的随身好帮手。
 
-- 起卦方式遵循易经传统大衍算法，逐爻生成。
+- 起卦方式严格遵循易经传统，逐爻生成，可选择大衍算法或更高效的略筮法。
 
-- 算卦时可选择主题或录入问题，app自动记录和管理历史。
+- 算卦时可选择主题或录入问题，本地自动记录和管理历史。
+
+- 无需注册账号，绝不向云端或对外传输任何数据，最大程度保护隐私。
 
 - 趣味小游戏：画卦象 / 猜卦名，让你更快掌握和记忆六十四卦的结构。
 
-
 [隐私政策](yi-private-info.md)|[用户协议](yi-contract-info.md)
-[微博](https://weibo.com/vivotown)|[西瓜视频](https://www.ixigua.com/home/109819681656)|[哔哩哔哩](https://space.bilibili.com/385534)|
-[Instagram](https://www.instagram.com/yi.app)| [Twitter](https://twitter.com/alansuhe1)| [Facebook](https://www.facebook.com/%E5%AD%B8%E6%98%93app-109697790830359)
+[微博](https://weibo.com/vivotown)|[Twitter](https://twitter.com/alansuhe1)[Facebook](https://www.facebook.com/%E5%AD%B8%E6%98%93app-109697790830359)
