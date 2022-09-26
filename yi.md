@@ -6,7 +6,6 @@ title: 学易
 ```
 【提示】如果您在微信或微博里访问本页，
 请点右上角三个小点，选择在浏览器打开。
-
 ```
 <font color="#FF9980" size=5>遇事不决算一卦，让易经走进生活！</font>
 
@@ -16,6 +15,10 @@ title: 学易
 
 ![avatar](/img/icon-60@3x.png) ![avatar](/img/180.png) ![avatar](/img/180-pro.png)
 
+````
+本app可实现六十四卦易经原文分析查询，卦象快速切换，每一卦象解析详尽。是学易算卦之人的随身好帮手。
+````
+
 ### 苹果（IOS）商店（app store）
 - [通用版](https://apps.apple.com/cn/app/学易/id1533516434) 免费
 - [专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 无内购无广告
@@ -23,15 +26,15 @@ title: 学易
 ### 安卓（Android）
 - [国际（googlePlay）](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 - [中国大陆: 酷安市场](https://www.coolapk.com/apk/168854) 你的手机需要先安装酷安市场app。
-- [中国大陆: 腾讯应用宝](https://a.app.qq.com/o/simple.jsp?pkgname=me.suhe.yi) 你的手机需要先安装应用宝app。
+<!-- - [中国大陆: 腾讯应用宝](https://a.app.qq.com/o/simple.jsp?pkgname=me.suhe.yi) 你的手机需要先安装应用宝app。 -->
 
-### 功能特点
 
-宗旨：
+### 宗旨
+````
 - 回归周易原典，实用决策辅助。
 - 简明直接，去芜存精，上溯春秋古风。
-
-本app可实现六十四卦易经原文分析查询，卦象快速切换，每一卦象解析详尽。是学易算卦之人的随身好帮手。
+````
+### 功能特点
 
 - 起卦方式严格遵循易经传统，逐爻生成，可选择大衍算法或更高效的略筮法。
 
@@ -42,4 +45,4 @@ title: 学易
 - 趣味小游戏：画卦象 / 猜卦名，让你更快掌握和记忆六十四卦的结构。
 
 [隐私政策](yi-private-info.md)|[用户协议](yi-contract-info.md)
-[微博](https://weibo.com/vivotown)|[Twitter](https://twitter.com/alansuhe1)[Facebook](https://www.facebook.com/%E5%AD%B8%E6%98%93app-109697790830359)
+[微博](https://weibo.com/vivotown)|[Twitter](https://twitter.com/alansuhe1)[Facebook](https://www.facebook.com/%E5%AD%B8%E6%98%93app-109697790830359)|
