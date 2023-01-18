@@ -45,4 +45,5 @@ title: 学易
 - 趣味小游戏：画卦象 / 猜卦名，让你更快掌握和记忆六十四卦的结构。
 
 [隐私政策](yi-private-info.md)|[用户协议](yi-contract-info.md)
-[微博](https://weibo.com/vivotown)|[Twitter](https://twitter.com/alansuhe1)|[Facebook](https://www.facebook.com/%E5%AD%B8%E6%98%93app-109697790830359)|
+[微博Weibo](https://weibo.com/vivotown)|[Twitter](https://twitter.com/alansuhe1)|[Facebook](https://www.facebook.com/profile.php?id=100068784282736)|
+[Instagram](https://www.instagram.com/alan.suhe)|[头条](https://www.toutiao.com/c/user/token/MS4wLjABAAAAbmc2FGMa1bDTZB9Vn_2mM64CyUnkV1rMP3uVAsWdTHc)|[小红书](https://www.xiaohongshu.com/user/profile/61b54f21000000001000e120)|[百家](https://author.baidu.com/home?context=%7B%22app_id%22%3A1752789951191650%7D)
