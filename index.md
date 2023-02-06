@@ -1,3 +1,2 @@
-## Welcome to Alan Suhe blogs
-[学易app](yi.md)
-
+## Welcome to Yi blogs
+[学易 (Yi) app](yi.md)
