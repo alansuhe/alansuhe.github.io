@@ -22,7 +22,7 @@ title: 学易
 - [专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 无内购无广告
 
 ### 安卓（Android）
-- [本站](./release/app-3.6.3.apk) 本站直接下载
+- [本站](./release/app-arm64-v8a-release.apk) 本站直接下载
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 - [apkpure](https://apkpure.com/yi/me.suhe.yi) apkpure市场
 - [中国大陆: 酷安市场](https://www.coolapk.com/apk/168854) 你的手机需要安装酷安市场app。
