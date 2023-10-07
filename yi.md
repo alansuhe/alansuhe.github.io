@@ -52,5 +52,7 @@ title: 学易
 [Twitter](https://twitter.com/alansuhe1)|[Facebook](https://www.facebook.com/profile.php?id=100068784282736)|
 [Instagram](https://www.instagram.com/alan.suhe)|[Tiktok](https://www.tiktok.com/@yiappalan) -->
 
-# 卦金获取方式
-app内附有内购机制，如您用苹果IOS系统或装有Google Play的安卓系统，可直接购买。如果不具备这些条件，请参考[其他卦金获取方式](yi-get-guajin-cn.md)。
+# 卦金获取
+- app内附有内购机制，如您用苹果IOS系统或装有Google Play的安卓系统，可直接购买。
+- 如果不具备上述条件，请参考[其他卦金获取方式](yi-get-guajin-cn.md)。
+- [国内安卓礼品码：淘宝 Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
