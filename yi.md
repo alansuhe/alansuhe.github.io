@@ -4,8 +4,7 @@ title: 学易
 ## 学易app
 
 ```
-【提示】如果您在微信或微博里访问本页，
-请点右上角三个小点，选择在浏览器打开。
+【提示】如果您在微信或微博里访问本页，请点右上角三个小点，选择在浏览器打开。
 ```
 <font color="#FF9980" size=5>遇事不决算一卦，让易经走进生活！</font>
 
@@ -32,7 +31,7 @@ title: 学易
 
 ### 安卓（Android）
 ```
-注：Android只有通用版
+【注】Android只有通用版
 ```
 - [本站](./release/app-arm64-v8a-release-3.6.8.apk) 本站直接下载
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
