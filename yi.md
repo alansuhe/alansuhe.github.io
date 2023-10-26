@@ -44,18 +44,6 @@ title: 学易
 - 回归周易原典，实用决策辅助。
 - 简明直接，去芜存精，上溯春秋古风。
 
-## 功能特点
-
-- 起卦方式严格遵循易经传统，逐爻生成，可选择大衍筮法、略筮法或铜钱摇卦。
-
-- 算卦时可选择主题或录入问题，本地自动记录和管理历史。
-
-- 无需注册账号，绝不向云端或对外传输个人信息，最大程度保护隐私。
-
-- 趣味小游戏：画卦象 / 猜卦名，让你更快掌握和记忆六十四卦的结构。
-
-- AI解卦，探索新世界。
-
 <!-- 
 [Twitter](https://twitter.com/alansuhe1)|[Facebook](https://www.facebook.com/profile.php?id=100068784282736)|
 [Instagram](https://www.instagram.com/alan.suhe)|[Tiktok](https://www.tiktok.com/@yiappalan) -->
@@ -64,6 +52,15 @@ title: 学易
 - 如您用苹果系统或装有Google Play的安卓系统，可直接app内购买。
 - 如果不具备上述条件，请参考[其他卦金获取方式](yi-get-guajin-cn.md)。
 - [国内安卓礼品码：淘宝 Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
+
+## 功能特点
+
+- 起卦方式严格遵循易经传统，逐爻生成，可选择大衍筮法、略筮法或铜钱摇卦。
+- 算卦时可选择主题或录入问题，本地自动记录和管理历史。
+- 无需注册账号，绝不向云端或对外传输个人信息，最大程度保护隐私。
+- 趣味小游戏：画卦象 / 猜卦名，让你更快掌握和记忆六十四卦的结构。
+- AI解卦，探索新世界。
+![UI](/img/yiapp-ui.jpg)
 
 ## Others
 [隐私政策](yi-private-info.md) | [用户协议](yi-contract-info.md)
