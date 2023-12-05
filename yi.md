@@ -33,7 +33,7 @@ title: 学易
 ```
 【注】Android只有通用版
 ```
-- [本站](./release/app-arm64-v8a-release.apk) 本站直接下载
+- [本站](./release/app-release.apk) 本站直接下载
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 <!-- - [apkpure](https://apkpure.com/yi/me.suhe.yi) apkpure市场 -->
 - [中国大陆: 酷安市场](https://www.coolapk.com/apk/168854) 你的手机需要安装酷安市场app。
