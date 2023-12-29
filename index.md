@@ -40,11 +40,4 @@ title: SUHE . studio
 
 ## 其他
 
-[SUHE SPACE](https://suhe.space)
-
 [国内安卓礼品码：淘宝Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
-
-[小红书](https://www.xiaohongshu.com/user/profile/61b54f21000000001000e120) | [头条](https://www.toutiao.com/c/user/token/MS4wLjABAAAAbmc2FGMa1bDTZB9Vn_2mM64CyUnkV1rMP3uVAsWdTHc) | [百家](https://author.baidu.com/home?context=%7B%22app_id%22%3A1752789951191650%7D) | [微博Weibo](https://weibo.com/vivotown) ｜ [Bilibili](https://space.bilibili.com/385534)
-
-微信订阅号：
-![wechat](/img/wxqr.jpg) 
