@@ -4,12 +4,23 @@ title: SUHE . studio
 
 ## 学易 - Yi
 
-![avatar](/img/yi180.png)
-
 ### 苹果（IOS）商店（app store）
 
 - [通用版](https://apps.apple.com/cn/app/学易/id1533516434) 免费
-- [专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 无内购无广告
+- [专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 收费
+
+- IOS版本具体区别
+
+|   *   | 通用版 | 专业版 |
+| ---------- | --- | --- |
+|  ICON   | ![avatar](/img/yi-180.png) | ![avatar](/img/yi-180-pro.png) |
+| App购买    | 免费 | 一次性购买 |
+| 内购    | 卦金 | 无 |
+| 起卦 | 需卦金 | 无限制 |
+| 横幅广告 | 有一定量卦金时不显示 | 无 |
+| 互动广告 | 练习前 | 无 |
+| 游戏 | 有 | 无 |
+| 特色 | 人工智能辅助解卦 | 无 |
 
 ### 安卓 （Android）
 
@@ -40,4 +51,4 @@ title: SUHE . studio
 
 ## 其他
 
-[国内安卓礼品码：淘宝Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
+[国内安卓内购：淘宝Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
