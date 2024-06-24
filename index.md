@@ -36,6 +36,10 @@ title: Apps
 国际
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 
+### 协议与文档
+[服务条款](yi/contract-info.md)
+[隐私协议](yi/private-info.md)
+
 ## 我的塔罗 - My Tarot
 
 ![avatar](/img/mr180.png)
@@ -54,6 +58,17 @@ title: Apps
 国际
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.mr) 你的手机要能够访问谷歌服务。
 
+### 协议与文档
+[服务条款](mytarot/contract-info.md)
+[隐私协议](mytarot/private-info.md)
+
 ## 其他
 
-[国内安卓内购：淘宝Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
+### 内购补充
+[中国内地安卓内购：淘宝Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
+
+### 其他说明
+[中国内地卦金购买](market/get-coin-cn.md)
+[内购风险说明](market/iap-precautions.md)
+[关于AI人工智能](market/ai-access.md)
+
