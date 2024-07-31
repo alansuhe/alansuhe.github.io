@@ -6,46 +6,48 @@ title: Apps
 
 ### 苹果（IOS）商店（app store）
 
-- [通用版](https://apps.apple.com/cn/app/学易/id1533516434) 免费 - 内购卦金
-- [专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 免费 - 会员订阅制
+- [学易](https://apps.apple.com/cn/app/学易/id1533516434) 免费 - 内购卦金
+- [学易专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 免费 - 会员订阅制
 
-- IOS版本具体区别
+> 关于学易专业版3.8.0后为老用户提供的福利
 
-| 对比项 | 通用版 | 专业版 |
-| ----- | ----- | ----- |
-| ICON | ![avatar](/img/yi-180.png) | ![avatar](/img/yi-180-pro.png) |
-| 下载 |[通用版下载](https://apps.apple.com/app/id1533516434) | [专业版下载](https://apps.apple.com/app/id1536854357) |
-| App购买|免费|免费 |
-| 内购 | 卦金 | 订阅 |
-| 起卦 | 需卦金 | 无限制 |
-| 横幅广告 | 有一定量卦金时不显示 | 无 |
-| 互动广告 | 练习前 | 无 |
-| 游戏 | 有 | 无 |
-| 特色 | 人工智能辅助解卦 | 无 |
-
-> 专业版暂时只有iOS（苹果）版本，3.8.0后将改变价格模式为订阅制。
-
-> 关于学易专业版3.8.0后为老用户提供的福利：
-
+简体中文:
 - 付费购买过学易专业版App 3.8.0之前的用户，可发邮件到tosuhe@gmail.com申请相关福利。
-- 您可以使用[学易app](https://apps.apple.com/cn/app/学易/id1533516434)，我们会为您提供包括很多卦金的apple促销码，。
+- 您可以使用[学易](https://apps.apple.com/cn/app/学易/id1533516434)app，我们会为您提供包括很多卦金的apple促销码，。
 - 邮件中请给出您的购买记录截图，可以在苹果iOS设备的“设置”-“apple id”-“媒体与购买项目”中搜素到。
 
-繁体中文：
+繁體中文：
 - 已經付費購買過學易專業版App 3.8.0之前的用戶，可以發郵件到tosuhe@gmail.com申請相關福利。
-- 您可以使用[學易app](https://apps.apple.com/cn/app/学易/id1533516434)，我們將為您提供包括很多卦金的Apple促銷碼。
+- 您可以使用[學易](https://apps.apple.com/cn/app/学易/id1533516434)app，我們將為您提供包括很多卦金的Apple促銷碼。
 - 郵件中請提供您的購買記錄截圖，可以在蘋果iOS設備的「設置」-「Apple ID」-「媒體與購買項目」中搜尋到。
 
-英文：
+English：
 
-Users who have purchased the Yi Pro App before version 3.8.0 can apply for related benefits by emailing tosuhe@gmail.com.
-You can use the [yi app](https://apps.apple.com/cn/app/学易/id1533516434), and we will provide you with an Apple promotional code that includes a lot of Coins.
-Please provide a screenshot of your purchase record in the email, which can be found in the "Settings" - "Apple ID" - "Media & Purchases" on Apple iOS devices.
+- Users who have purchased the Yi Pro App before version 3.8.0 can apply for related benefits by emailing tosuhe@gmail.com.
+- You can use the [yi](https://apps.apple.com/cn/app/学易/id1533516434) app, and we will provide you with an Apple promotional code that includes a lot of Coins.
+- Please provide a screenshot of your purchase record in the email, which can be found in the "Settings" - "Apple ID" - "Media & Purchases" on Apple iOS devices.
 
-日文：
+日本语：
 - 学易プロフェッショナル版アプリのバージョン3.8.0以前を購入したユーザーは、tosuhe@gmail.comにメールを送信して関連する特典を申請できます。
 - [学易](https://apps.apple.com/cn/app/学易/id1533516434)アプリを使用することができます。私たちは、多くの「卦金」を含むAppleのプロモーションコードを提供します。
 - メールには、購入記録のスクリーンショットを提供してください。これはAppleのiOSデバイスの「設定」-「Apple ID」-「メディアと購入」で検索できます。
+
+
+#### IOS版本具体区别
+
+| 对比项 | 学易 | 学易专业版 |
+| ----- | ----- | ----- |
+| ICON | ![avatar](/img/yi-180.png) | ![avatar](/img/yi-180-pro.png) |
+| 下载 |[下载](https://apps.apple.com/app/id1533516434) | [下载](https://apps.apple.com/app/id1536854357) |
+| 费用 |免费|3.8.0后免费 |
+| 内购 | 卦金 | 3.8.0后为订阅制 |
+| 起卦 | 需卦金 | 订阅期间无限制 |
+| 横幅广告 | 有一定量卦金时不显示 | 无 |
+| 互动广告 | 练习前 | 无 |
+| 游戏 | 有 | 无 |
+| 特色 | AI辅助解卦（可能需要卦金） | 暂无AI |
+
+> 专业版暂时只有iOS（苹果）版本，3.8.0后将改变价格模式为订阅制。
 
 ### 安卓 （Android）
 
