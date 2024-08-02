@@ -7,6 +7,7 @@ title: Apps
 ### 苹果（IOS）商店（app store）
 - [学易](https://apps.apple.com/cn/app/学易/id1533516434) 免费 - 内购卦金
 - [学易专业版](https://apps.apple.com/cn/app/学易专业版/id1536854357) 免费 - 会员订阅制
+
 <!-- 
 > 关于学易专业版3.8.0后为老用户提供的福利
 
