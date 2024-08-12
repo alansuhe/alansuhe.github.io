@@ -1,5 +1,5 @@
 ---
-title: Apps
+title: yi apps
 ---
 
 ## 学易 - Yi
