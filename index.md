@@ -10,10 +10,10 @@ title: Apps
 
 #### IOS版本具体区别
 
-| 对比项 | 学易 | 学易专业版 |
+| 对比项 | 学易 yi | 学易专业版 yi pro |
 | ----- | ----- | ----- |
 | ICON | ![avatar](/img/yi-180.png) | ![avatar](/img/yi-180-pro.png) |
-| 下载 |[下载](https://apps.apple.com/app/id1533516434) | [下载](https://apps.apple.com/app/id1536854357) |
+| 下载 |[下载 Download](https://apps.apple.com/app/id1533516434) | [下载 Download](https://apps.apple.com/app/id1536854357) |
 | 费用 |免费|3.8.0后免费 |
 | 内购 | 卦金 | 3.8.0后为订阅制 |
 | 起卦 | 需卦金 | 订阅期间无限制 |
