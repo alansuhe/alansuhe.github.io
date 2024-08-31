@@ -1,8 +1,10 @@
 ---
-title: Apps
+title: yi apps
 ---
 
 ## 学易 - Yi
+
+![og](/img/full.webp)
 
 ### 苹果（IOS）商店（app store）
 - [学易](https://apps.apple.com/cn/app/学易/id1533516434) 免费 - 内购卦金
@@ -10,10 +12,10 @@ title: Apps
 
 #### IOS版本具体区别
 
-| 对比项 | 学易 yi | 学易专业版 yi pro |
+| 对比项 | 学易 | 学易专业版 |
 | ----- | ----- | ----- |
 | ICON | ![avatar](/img/yi-180.png) | ![avatar](/img/yi-180-pro.png) |
-| 下载 |[下载 Download](https://apps.apple.com/app/id1533516434) | [下载 Download](https://apps.apple.com/app/id1536854357) |
+| 下载 |[下载](https://apps.apple.com/app/id1533516434) | [下载](https://apps.apple.com/app/id1536854357) |
 | 费用 |免费|3.8.0后免费 |
 | 内购 | 卦金 | 3.8.0后为订阅制 |
 | 起卦 | 需卦金 | 订阅期间无限制 |
@@ -52,7 +54,9 @@ title: Apps
 [内购风险说明](market/iap-precautions.md)
 [关于AI人工智能](market/ai-access.md)
 
-----------
+--------
+
+![appintro](/img/full-1.webp)
 
 > 关于学易专业版3.8.0后为老用户提供的福利
 
