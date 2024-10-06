@@ -1,5 +1,5 @@
 ---
-title: Suhe.Space Studio
+title: SUHE Studio
 description: 学易 . 學易 . IChing Life . 功过格 . 功過格 . 我的塔罗 . My Tarot
 ---
 
