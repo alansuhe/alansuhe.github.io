@@ -1,8 +1,8 @@
 ---
-title: yi apps
+title: 学易 . 學易 . IChing Life
 ---
 
-## 学易 - Yi
+## 学易 App
 
 ![og](/img/full.webp)
 

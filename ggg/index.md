@@ -1,5 +1,5 @@
 ---
-title: 功过格 App
+title: 功过格 . 功過格 . Gong Guo Ge
 ---
 
 ## 功过格 - Gong Guo Ge
