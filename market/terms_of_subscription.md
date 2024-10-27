@@ -1,10 +1,10 @@
 ---
 author: Alan Suhe
 date: '2024-10-27'
-title: "学易 (ichingLife) App订阅条款, Terms of Subscription."
+title: "学易 (ichingLife) 订阅条款"
 tags:
   - yi, ichingLife, 学易, subscription
-description: 订阅条款, Terms of Subscription
+description: 订阅条款, Terms of Subscription, サブスクリプション利用規約
 ---
 
 ## 订阅条款与条件
