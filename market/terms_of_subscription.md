@@ -13,6 +13,8 @@ description: 订阅条款, Terms of Subscription
 
 ### 1. 订阅简介
 
+本应用为免费App，大多数功能无需订阅，订阅后可获得的特别功能和权益在订阅界面中有详细说明。
+
 本应用提供以下订阅选项：
 
 - **月度订阅**：每月收取费用。
@@ -57,6 +59,8 @@ Thank you for choosing our app! To ensure you understand our subscription servic
 
 ### 1. Subscription Overview
 
+This is a free app, and most features do not require a subscription. Special features and benefits available with a subscription are detailed in the subscription interface.
+
 This app offers the following subscription options:
 
 - **Monthly Subscription**: Charged monthly.
@@ -99,6 +103,8 @@ Thank you for choosing our app, and we look forward to providing you with qualit
 私たちのアプリを選んでいただきありがとうございます！サブスクリプションサービスを理解していただくために、以下はサブスクリプション条項に関する重要な情報です：
 
 ### 1. サブスクリプションの概要
+
+このアプリは無料のアプリであり、ほとんどの機能はサブスクリプションを必要としません。サブスクリプションで利用可能な特別な機能と特典については、サブスクリプションインターフェースに詳しく説明されています。
 
 このアプリでは、以下のサブスクリプションオプションを提供しています：
 
