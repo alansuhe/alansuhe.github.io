@@ -36,7 +36,7 @@ title: 学易 . 學易 . IChing Life
 [中国内地卦金购买](/market/get-coin-cn.md)
 [内购风险说明](/market/iap-precautions.md)
 [关于AI人工智能](/market/ai-access.md)
-
+[订阅条款](/market/terms_of_subscription.md)
 --------
 
 ![appintro](/img/full-1.webp)
