@@ -2,89 +2,78 @@
 title: Listen Bot . 听小机 . リスンボット
 ---
 
-## Listen Bot . 听小机 . リスンボット
-### 简介
-这不是你想的那种翻译软件。
+## Support Page ｜ 支持网页 ｜ サポートページ
 
-在陌生语言环境中，听小机帮你快速了解他人在说什么。
-不是逐字翻译，而是自动总结，让你直接听懂大意。
+### 中文
 
-实时聆听
-在街头、商店、会议或聚会中，听小机持续识别周围的对话。
+- 联系我们
+有任何技术和使用问题，欢迎联系我们。
+[Email](email:tosuhe@gmail.com)
 
-自动总结
-可手动或自动操作，控制语音识别和AI分析节奏，无需全程盯着屏幕。
+- 常见问题
+Q：AI token只存在设备上，会否因为卸载等操作丢失？
+A: 在卸载App时，还未用完的AI token会丢失，所以需要注意一点。但是请放心，只要在订阅生效期间，App会在一定周期自动为你补充AI token。
 
-翻译辅助
-识别结果也可直接翻译，辅助你理解具体内容。
+Q: 安卓设备上，出现了部分语言名称显示不正常的问题。
+A: 是的，部分安卓设备的自动识别出的语言标签不一定和预设规范一致，特别是各种中文，可能UI上会以中文显示，但不影响可以正常使用。
 
-隐私
+- 功能
+陌生语言环境下，Listen Bot帮你快速了解人们在说什么。
+
+- 隐私
 无需注册，安装即用。
 不收集个人信息。
 语音识别在设备端进行，保障你的隐私。
 
-订阅
+- 订阅
 多数功能免费使用。
 订阅可解锁更多高级功能，如更强的 AI 模型选择。
 
-## English Version
-Listen Bot
+## English
+- Contact Us
+If you have any technical or usage issues, feel free to contact us.
+[Email](email:tosuhe@gmail.com)
 
-Understand what they’re saying
+- FAQ
+Q: AI tokens only exist on the device. Will they be lost if I uninstall the app?
+A: Yes, any unused AI tokens will be lost when uninstalling the app, so please keep that in mind. However, rest assured that as long as your subscription is active, the app will automatically replenish your AI tokens periodically.
 
-### Description
-This is not your typical translation app.
+Q: On some Android devices, some language names appear incorrectly.
+A: Yes, the automatically detected language tags on certain Android devices may not always match the preset standards, especially various Chinese dialects. The UI may show the language name in Chinese, but this does not affect normal usage.
 
-In unfamiliar language environments, Listen Bot helps you quickly grasp what people are talking about.
-It doesn’t translate word by word — instead, it summarizes automatically, so you can understand the main idea directly.
-
-- Real-time Listening
-In streets, shops, meetings, or gatherings, Listen Bot continuously picks up nearby conversations.
-
-- Automatic Summarization
-Control the pace of voice recognition and AI analysis manually or automatically. No need to stare at the screen the whole time.
-
-- Translation Assistant
-Recognized text can also be translated to help you understand details more clearly.
+- Features
+In unfamiliar language environments, Listen Bot helps you quickly understand what people are saying.
 
 - Privacy
-No registration required — use immediately after install.
-No personal data is collected.
-Voice recognition runs on-device to protect your privacy.
+No registration required, ready to use upon installation.
+No personal information is collected.
+Speech recognition is processed on the device to protect your privacy.
 
 - Subscription
 Most features are free to use.
-Subscribing unlocks advanced features such as access to more powerful AI models.
+Subscription unlocks more advanced features, such as stronger AI model options.
 
-## 日本語版（アプリ名：リスンボット）
-リスンボット
+## Japanese (日本語)
 
-彼らが話している内容を理解しよう
+- お問い合わせ
+技術的な問題や使い方についてご不明な点があれば、お気軽にお問い合わせください。
+メール
 
-### 概要
-これは、よくある翻訳アプリではありません。
+- よくある質問
+Q: AIトークンは端末にのみ存在しますが、アンインストールなどで失われますか？
+A: はい、未使用のAIトークンはアプリをアンインストールすると失われるためご注意ください。ただし、サブスクリプションが有効な期間中は、アプリが定期的に自動でAIトークンを補充しますのでご安心ください。
 
-知らない言語の環境でも、リスンボットが会話の大まかな内容をすばやく把握する手助けをします。
-一語一句を翻訳するのではなく、AIが自動で要点をまとめてくれるので、全体の意味がすぐに理解できます。
+Q: Android端末で、一部の言語名が正常に表示されない問題があります。
+A: はい、一部のAndroid端末では自動認識される言語タグが設定基準と異なる場合があります。特に中国語の各方言は、UI上で中国語表記になることがありますが、正常に使用できます。
 
-- リアルタイムで聞き取り
-街中やお店、会議や集まりなどで、周囲の会話を継続的に認識します。
-
-- 自動要約
-音声認識とAI分析の間隔を手動または自動でコントロール可能。ずっと画面を見ている必要はありません。
-
-- 翻訳サポート
-認識されたテキストは翻訳も可能。内容理解をさらにサポートします。
+- 機能
+聞き慣れない言語環境でも、Listen Botが人々の話している内容をすばやく理解するのを助けます。
 
 - プライバシー
-登録不要、インストール後すぐに使えます。
-個人情報は一切収集しません。
-音声認識は端末内で行われ、プライバシーを守ります。
+登録不要、インストールしてすぐに使えます。
+個人情報は収集しません。
+音声認識は端末内で処理され、プライバシーを保護します。
 
 - サブスクリプション
-多くの機能は無料で利用可能です。
-サブスクにより、より高性能なAIモデルなどの高度な機能が利用できます。
-
-### 协议与文档
-[服务条款](contract-info.md)
-[隐私协议](private-info.md)
+ほとんどの機能は無料で利用できます。
+サブスクリプションにより、より高度な機能（強力なAIモデル選択など）がアンロックされます。
