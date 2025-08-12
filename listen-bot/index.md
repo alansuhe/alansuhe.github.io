@@ -11,11 +11,12 @@ title: Listen Bot . 听小机 . リスンボット
 [Email](email:tosuhe@gmail.com)
 
 - 常见问题
-Q：AI token只存在设备上，会否因为卸载等操作丢失？
-A: 在卸载App时，还未用完的AI token会丢失，所以需要注意一点。但是请放心，只要在订阅生效期间，App会在一定周期自动为你补充AI token。
 
-Q: 安卓设备上，出现了部分语言名称显示不正常的问题。
-A: 是的，部分安卓设备的自动识别出的语言标签不一定和预设规范一致，特别是各种中文，可能UI上会以中文显示，但不影响可以正常使用。
+>Q：AI token只存在设备上，会否因为卸载等操作丢失？
+>A: 在卸载App时，还未用完的AI token会丢失，所以需要注意一点。但是请放心，只要在订阅生效期间，App会在一定周期自动为你补充AI token。
+
+>Q: 安卓设备上，出现了部分语言名称显示不正常的问题。
+>A: 是的，部分安卓设备的自动识别出的语言标签不一定和预设规范一致，特别是各种中文，可能UI上会以中文显示，但不影响可以正常使用。
 
 - 功能
 陌生语言环境下，Listen Bot帮你快速了解人们在说什么。
@@ -35,11 +36,12 @@ If you have any technical or usage issues, feel free to contact us.
 [Email](email:tosuhe@gmail.com)
 
 - FAQ
-Q: AI tokens only exist on the device. Will they be lost if I uninstall the app?
+  
+>Q: AI tokens only exist on the device. Will they be lost if I uninstall the app?
 A: Yes, any unused AI tokens will be lost when uninstalling the app, so please keep that in mind. However, rest assured that as long as your subscription is active, the app will automatically replenish your AI tokens periodically.
 
-Q: On some Android devices, some language names appear incorrectly.
-A: Yes, the automatically detected language tags on certain Android devices may not always match the preset standards, especially various Chinese dialects. The UI may show the language name in Chinese, but this does not affect normal usage.
+>Q: On some Android devices, some language names appear incorrectly.
+>A: Yes, the automatically detected language tags on certain Android devices may not always match the preset standards, especially various Chinese dialects. The UI may show the language name in Chinese, but this does not affect normal usage.
 
 - Features
 In unfamiliar language environments, Listen Bot helps you quickly understand what people are saying.
@@ -60,11 +62,12 @@ Subscription unlocks more advanced features, such as stronger AI model options.
 メール
 
 - よくある質問
-Q: AIトークンは端末にのみ存在しますが、アンインストールなどで失われますか？
-A: はい、未使用のAIトークンはアプリをアンインストールすると失われるためご注意ください。ただし、サブスクリプションが有効な期間中は、アプリが定期的に自動でAIトークンを補充しますのでご安心ください。
 
-Q: Android端末で、一部の言語名が正常に表示されない問題があります。
-A: はい、一部のAndroid端末では自動認識される言語タグが設定基準と異なる場合があります。特に中国語の各方言は、UI上で中国語表記になることがありますが、正常に使用できます。
+>Q: AIトークンは端末にのみ存在しますが、アンインストールなどで失われますか？
+>A: はい、未使用のAIトークンはアプリをアンインストールすると失われるためご注意ください。ただし、サブスクリプションが有効な期間中は、アプリが定期的に自動でAIトークンを補充しますのでご安心ください。
+
+>Q: Android端末で、一部の言語名が正常に表示されない問題があります。
+>A: はい、一部のAndroid端末では自動認識される言語タグが設定基準と異なる場合があります。特に中国語の各方言は、UI上で中国語表記になることがありますが、正常に使用できます。
 
 - 機能
 聞き慣れない言語環境でも、Listen Botが人々の話している内容をすばやく理解するのを助けます。
