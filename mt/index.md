@@ -14,7 +14,6 @@ title: 我的塔罗 . My Tarot
 
 国内市场（支持鸿蒙）
 
-<!-- - [中国大陆: 酷安市场](https://www.coolapk.com/apk/168854) 你的手机需要安装酷安市场app。 -->
 - [中国大陆: 应用汇](http://www.appchina.com/app/me.suhe.mr) 你的手机需要安装应用汇app。
 
 国际
