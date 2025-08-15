@@ -5,4 +5,4 @@ title: "用户协议"
 app_name: "听小机"
 ---
 
-{% include privacy.md appName=page.title %}
+{% include privacy.ja.md appName=page.title %}
