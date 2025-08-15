@@ -1,7 +1,8 @@
-
 ---
 title: 我的塔罗 . My Tarot
 ---
+
+## Support Page ｜ 支持网页 ｜ サポートページ
 
 ![avatar](/img/mr180.png)
 
