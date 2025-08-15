@@ -1,4 +1,6 @@
 ---
+docId: listen-bot-support
+lang: zh-Hans
 title: 听小机
 ---
 

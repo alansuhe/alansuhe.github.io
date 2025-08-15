@@ -1,4 +1,6 @@
 ---
+docId: listen-bot-support
+lang: ja
 title: リスンボット
 ---
 
