@@ -1,5 +1,7 @@
 
-## 我的塔罗 - My Tarot
+---
+title: 我的塔罗 . My Tarot
+---
 
 ![avatar](/img/mr180.png)
 
