@@ -1,5 +1,5 @@
 Aviso importante: Lea atentamente los siguientes términos y confirme que comprende completamente este Acuerdo, especialmente las cláusulas de exención y limitación de responsabilidad, derechos de propiedad intelectual, ley aplicable y resolución de disputas.
-Si no está de acuerdo con esta Declaración o con cualquier cláusula del presente Acuerdo, por favor cese el registro o el uso de las aplicaciones móviles, tabletas u otros dispositivos y de todos los servicios proporcionados por “{{appName}}” (en adelante, “la Aplicación”).
+Si no está de acuerdo con esta Declaración o con cualquier cláusula del presente Acuerdo, por favor cese el registro o el uso de las aplicaciones móviles, tabletas u otros dispositivos y de todos los servicios proporcionados por “{{ include.appName }}” (en adelante, “la Aplicación”).
 
 ## 1. Preámbulo
 

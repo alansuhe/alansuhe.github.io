@@ -1,5 +1,5 @@
 Important Notice: Please read the following terms carefully and confirm that you fully understand this Agreement, especially the clauses on limitation and disclaimer of liability, intellectual-property rights, governing law, and dispute resolution.
-If you disagree with any part of this Statement or any clause of this Agreement, please stop registering or using the “{{appName}}” mobile, tablet, or other device applications and all services provided by the software (collectively “the App”).
+If you disagree with any part of this Statement or any clause of this Agreement, please stop registering or using the “{{ include.appName }}” mobile, tablet, or other device applications and all services provided by the software (collectively “the App”).
 
 ## 1. Preamble
 
