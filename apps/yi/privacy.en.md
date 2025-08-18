@@ -1,10 +1,10 @@
 ---
-docId: lb-privacy
+docId: yi-privacy
 lang: en
 author: Alan
 date: '2025-08-07'
 title: "Privacy"
-appName: "Listen Bot"
+appName: "iChing Life"
 ---
 
 {% include privacy.en.md appName=page.appName %}

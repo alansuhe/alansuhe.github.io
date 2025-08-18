@@ -1,7 +1,8 @@
 ---
-docId: listen-bot-support
+docId: lb-support
 lang: en
-title: Listen Bot
+title: Support
+appName: Listen Bot
 ---
 
 Support Page

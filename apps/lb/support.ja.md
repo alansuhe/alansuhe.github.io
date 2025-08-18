@@ -1,7 +1,8 @@
 ---
-docId: listen-bot-support
+docId: lb-support
 lang: ja
 title: リスンボット
+appName: "聞くボット"
 ---
 
 サポートページ

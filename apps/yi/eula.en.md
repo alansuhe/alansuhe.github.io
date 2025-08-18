@@ -1,10 +1,10 @@
 ---
-docId: lb-eula
+docId: yi-eula
 lang: en
 author: Alan
 date: '2025-08-07'
 title: EULA
-appName: Listen Bot
+appName: iChing Life
 ---
 
 {% include eula.en.md appName=page.title %}
