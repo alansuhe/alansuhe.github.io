@@ -1,9 +1,11 @@
 ---
-id: yi-index
+docId: yi-index
+fileId: index
 lang: ja
 title: 学易
 appName: 学易
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 ![og](assets/icon-1.png)
 

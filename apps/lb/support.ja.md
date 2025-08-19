@@ -1,9 +1,11 @@
 ---
 docId: lb-support
+fileId: support
 lang: ja
 title: リスンボット
 description: "聞くボット"
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 サポートページ
 

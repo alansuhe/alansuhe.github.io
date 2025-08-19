@@ -1,9 +1,11 @@
 ---
-id: yi-index
+docId: yi-index
+fileId: index
 lang: ko
 title: 이경라이프
 appName: 이경라이프
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 ![og](assets/icon-1.png)
 

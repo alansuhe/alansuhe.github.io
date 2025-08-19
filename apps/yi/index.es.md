@@ -1,9 +1,11 @@
 ---
-id: yi-index
+docId: yi-index
+fileId: index
 lang: es
 title: Vida I Ching
 appName: Vida I Ching
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 ![og](assets/icon-1.png)
 

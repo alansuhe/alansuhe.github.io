@@ -1,11 +1,13 @@
 ---
 docId: lb-support
+fileId: support
 lang: zh-Hant
 author: Alan
 date: '2025-08-07'
 title: "支持"
 description: "聽小機"
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 - 聯絡我們  
 如有任何技術或使用上的問題，歡迎聯絡我們。  

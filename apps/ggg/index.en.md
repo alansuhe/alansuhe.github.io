@@ -1,8 +1,11 @@
 ---
 docId: ggg-index
+fileId: index
 lang: en
 title: Gong Guo Ge
 ---
+
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 ![icon](assets/icon.png)
 

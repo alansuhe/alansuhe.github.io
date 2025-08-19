@@ -1,9 +1,11 @@
 ---
 docId: lb-support
+fileId: support
 lang: en
 title: Support
 description: Listen Bot
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 Support Page
 

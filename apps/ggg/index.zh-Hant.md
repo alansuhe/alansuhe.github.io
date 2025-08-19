@@ -1,8 +1,10 @@
 ---
 docId: ggg-index
+fileId: index
 lang: en
 title: 功過格
 ---
+{% include lang-selector.md lang=page.lang file=page.fileId %}
 
 ![icon](assets/icon.png)
 
