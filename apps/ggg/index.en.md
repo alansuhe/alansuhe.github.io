@@ -4,8 +4,6 @@ lang: en
 title: Gong Guo Ge
 ---
 
-## 功过格 - Gong Guo Ge
-
 ![icon](assets/icon.png)
 
 > Begin your journey of growth and transformation.
