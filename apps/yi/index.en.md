@@ -1,7 +1,7 @@
 ---
 docId: yi-index
 fileId: index
-lang: zh-Hans
+lang: en
 title: iChing Life
 appName: iChing Life
 ---

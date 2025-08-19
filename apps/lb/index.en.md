@@ -1,6 +1,6 @@
 ---
-docId: lb-support
-fileId: support
+docId: lb-index
+fileId: index
 lang: en
 title: Support
 description: Listen Bot

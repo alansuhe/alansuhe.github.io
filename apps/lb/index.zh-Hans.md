@@ -1,6 +1,6 @@
 ---
-docId: lb-support
-fileId: support
+docId: lb-index
+fileId: index
 lang: zh-Hans
 author: Alan
 date: '2025-08-07'

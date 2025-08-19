@@ -1,6 +1,6 @@
 ---
-docId: lb-support
-fileId: support
+docId: lb-index
+fileId: index
 lang: zh-Hant
 author: Alan
 date: '2025-08-07'
@@ -9,7 +9,7 @@ description: "聽小機"
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
 
-- 聯絡我們  
+- 聯絡我們
 如有任何技術或使用上的問題，歡迎聯絡我們。  
 [電子郵件](email:tosuhe@gmail.com)
 

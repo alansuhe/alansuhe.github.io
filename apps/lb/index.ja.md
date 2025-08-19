@@ -1,6 +1,6 @@
 ---
-docId: lb-support
-fileId: support
+docId: lb-index
+fileId: index
 lang: ja
 title: リスンボット
 description: "聞くボット"
