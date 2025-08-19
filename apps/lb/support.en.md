@@ -2,7 +2,7 @@
 docId: lb-support
 lang: en
 title: Support
-appName: Listen Bot
+description: Listen Bot
 ---
 
 Support Page

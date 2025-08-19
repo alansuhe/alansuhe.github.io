@@ -1,4 +1,6 @@
 ---
+docId: ggg-index
+lang: en
 title: Gong Guo Ge
 ---
 

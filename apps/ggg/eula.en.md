@@ -1,10 +1,10 @@
 ---
 docId: ggg-eula
-lang: zh-Hant
+lang: en
 author: Alan
 date: '2025-08-07'
 title: "EULA"
-appName: "Gong Guo Ge"
+description: "Gong Guo Ge"
 ---
 
-{% include eula.zh-Hant.md appName=page.appName %}
+{% include eula.en.md appName=page.description %}

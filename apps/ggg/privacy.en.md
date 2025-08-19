@@ -4,7 +4,7 @@ lang: en
 author: Alan
 date: '2025-08-07'
 title: "Privacy"
-appName: "Gong Guo Ge"
+description: "Gong Guo Ge"
 ---
 
-{% include privacy.en.md appName=page.appName %}
+{% include privacy.en.md appName=page.description %}

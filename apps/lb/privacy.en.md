@@ -4,7 +4,7 @@ lang: en
 author: Alan
 date: '2025-08-07'
 title: "Privacy"
-appName: "Listen Bot"
+description: "Listen Bot"
 ---
 
-{% include privacy.en.md appName=page.appName %}
+{% include privacy.en.md appName=page.description %}

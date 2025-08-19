@@ -4,7 +4,7 @@ lang: zh-Hans
 author: Alan
 date: '2025-08-07'
 title: "支持"
-appName: "听小机"
+description: "听小机"
 ---
 
 - 联系我们

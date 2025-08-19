@@ -4,7 +4,7 @@ lang: ja
 author: Alan
 date: '2025-08-07'
 title: "利用規約"
-appName: "聞くボット"
+description: "聞くボット"
 ---
 
-{% include eula.ja.md appName=page.appName %}
+{% include eula.ja.md appName=page.description %}

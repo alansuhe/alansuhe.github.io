@@ -1,4 +1,6 @@
 ---
+docId: ggg-index
+lang: ja
 title: 功過格
 ---
 

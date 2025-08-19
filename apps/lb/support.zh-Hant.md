@@ -4,7 +4,7 @@ lang: zh-Hant
 author: Alan
 date: '2025-08-07'
 title: "支持"
-appName: "聽小機"
+description: "聽小機"
 ---
 
 - 聯絡我們  

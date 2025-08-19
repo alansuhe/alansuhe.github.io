@@ -4,7 +4,7 @@ lang: ja
 author: Alan
 date: '2025-08-07'
 title: "プライバシーポリシー"
-appName: "功過格"
+description: "功過格"
 ---
 
-{% include privacy.ja.md appName=page.appName %}
+{% include privacy.ja.md appName=page.description %}

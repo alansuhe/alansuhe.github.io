@@ -2,7 +2,7 @@
 docId: lb-support
 lang: ja
 title: リスンボット
-appName: "聞くボット"
+description: "聞くボット"
 ---
 
 サポートページ

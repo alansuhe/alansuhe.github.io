@@ -1,4 +1,6 @@
 ---
+docId: ggg-index
+lang: zh-Hans
 title: 功过格
 ---
 
