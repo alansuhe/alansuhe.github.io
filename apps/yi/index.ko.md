@@ -42,14 +42,11 @@ appName: 이경라이프
 결정을 내리기 어려울 때 점을 보고 싶은 일반인, 역학 초보자, 깊이 연구하는 전문가 누구든,
 **이경라이프는 조용하고 신뢰할 수 있는 동반자가 되고자 합니다.**
 
-### IOS
+### 애플 (iOS) 스토어 (App Store)
 
-- [App Store](https://apps.apple.com/app/id1533516434)
+- [이경라이프](https://apps.apple.com/app/id1533516434) 묶음 + 인앱 구매 및 구독 서비스
 
-### Android
+### 안드로이드 (Android) 스토어
 
-- [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi)
-
---------
-
-![appintro](/img/full-1.webp)
+- [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 휴즈 서비스에 접근할 수 있어야 합니다.
+- 다른 안드로이드 앱 다운로드 채널도 있습니다. [Suhe Space](https://app.suhe.space)에서 확인하세요.

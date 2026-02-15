@@ -40,27 +40,13 @@ appName: 学易
 ---
 
 无论你是想“遇事不决算一卦”的普通人，正在学习的易经初学者，还是深研体系的专业研究者，
-**“学易”都希望成为你身边安静、可信的好伙伴。**
+**“学易”都可以成为你身边安静、可信的好伙伴。**
 
 ### 苹果（IOS）商店（app store）
 
 - [学易](https://apps.apple.com/app/id1533516434) 免费 + 内购和订阅服务
 
-### 安卓 （Android）
+### 安卓（Android）商店 (Goolgle Play)
 
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
-
-## 其他
-
-### 内购补充
-
-[中国内地安卓内购：淘宝Taobao](https://i3cf4g4wrztdx9i5dsanog0wq1cfh96.taobao.com)
-
-### 其他说明
-
-[内购风险说明](/market/iap-precautions.md)
-[订阅条款](/market/terms_of_subscription.md)
-
---------
-
-![appintro](/img/full-1.webp)
+- 其他还有一些安卓app下载渠道，请到[Suhe Space](https://app.suhe.space)查看。

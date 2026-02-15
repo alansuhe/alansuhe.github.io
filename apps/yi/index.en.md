@@ -51,11 +51,7 @@ Whether you’re a casual user seeking guidance, a beginner learning I Ching, or
 
 - [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Requires access to Google services.
 
-### Additional Information
+### Android Stores
 
-[In-app Purchase Risk Notice](/market/iap-precautions.md)  
-[Subscription Terms](/market/terms_of_subscription.md)
-
---------
-
-![appintro](/img/full-1.webp)
+- [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Requires access to Google services.
+- There are also other Android app download channels. Please visit [Suhe Space](https://app.suhe.space) for more information.

@@ -46,22 +46,7 @@ appName: 學易
 
 - [學易](https://apps.apple.com/app/id1533516434) 免費 + 內購和訂閱服務
 
-### 安卓 （Android）
+### 安卓（Android）商店
 
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手機要能夠訪問谷歌服務。
-
-### 協議與文件
-
-[服務條款](contract-info.md)  
-[隱私協議](private-info.md)
-
-## 其他
-
-### 其他說明
-
-[內購風險說明](/market/iap-precautions.md)  
-[訂閱條款](/market/terms_of_subscription.md)
-
---------
-
-![appintro](/img/full-1.webp)
+- 其他還有一些安卓app下載渠道，請到[Suhe Space](https://app.suhe.space)查看。

@@ -47,22 +47,7 @@ Ya seas un usuario casual en busca de orientación, un principiante aprendiendo 
 
 - [Vida I Ching](https://apps.apple.com/app/id1533516434) Gratis + compras dentro de la app y suscripciones
 
-### Android
+### Tiendas Android
 
 - [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Requiere acceso a los servicios de Google.
-
-### Términos y documentos
-
-[Condiciones de servicio](contract-info.md)  
-[Política de privacidad](private-info.md)
-
-## Otros
-
-### Información adicional
-
-[Advertencia sobre riesgos de compras dentro de la app](/market/iap-precautions.md)  
-[Términos de suscripción](/market/terms_of_subscription.md)
-
---------
-
-![appintro](/img/full-1.webp)
+- También hay otros canales de descarga de aplicaciones Android. Visite [Suhe Space](https://app.suhe.space) para más información.
