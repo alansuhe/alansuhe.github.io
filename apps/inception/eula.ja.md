@@ -1,5 +1,5 @@
 ---
-docId: lb-eula
+docId: inception-eula
 fileId: eula
 lang: ja
 author: Alan

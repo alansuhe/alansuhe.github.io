@@ -1,5 +1,5 @@
 ---
-docId: lb-index
+docId: inception-index
 fileId: index
 lang: ja
 title: 睡眠Inception

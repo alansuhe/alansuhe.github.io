@@ -1,11 +1,11 @@
 ---
-docId: lb-eula
+docId: inception-eula
 fileId: eula
 lang: en
 author: Alan
 date: '2026-02-23'
 title: EULA
-description: Self SelfInception
+description: Self Inception
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
 

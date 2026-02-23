@@ -1,5 +1,5 @@
 ---
-docId: lb-privacy
+docId: inception-privacy
 fileId: privacy
 lang: ja
 author: Alan
