@@ -27,7 +27,7 @@ Through regular positive psychological suggestions, cultivate positive thinking 
 - Enhance psychological resilience, cultivate growth mindset
 
 ### Advanced Features
-- After upgrading to premium, users can create and edit their own embedded information
+- Users can create and edit embedded information during their active subscription.
 
 Let positive psychological suggestions become your daily habit, achieving inner growth in peace.
 
