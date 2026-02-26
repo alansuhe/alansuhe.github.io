@@ -40,7 +40,7 @@ We aim to bring the wisdom of I Ching into modern daily life through technology.
 
 ---
 
-Whether you’re a casual user seeking guidance, a beginner learning I Ching, or a dedicated researcher,  
+Whether you're a casual user seeking guidance, a beginner learning I Ching, or a dedicated researcher,  
 **iChing Life aims to be your quiet and trustworthy companion.**
 
 ### Apple (iOS) App Store

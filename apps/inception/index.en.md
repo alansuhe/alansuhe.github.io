@@ -26,6 +26,9 @@ Through regular positive psychological suggestions, cultivate positive thinking 
 - Pre-sleep psychological preparation, achieving better results in relaxed state
 - Enhance psychological resilience, cultivate growth mindset
 
+### Advanced Features
+- After upgrading to premium, users can create and edit their own embedded information
+
 Let positive psychological suggestions become your daily habit, achieving inner growth in peace.
 
 ## Privacy

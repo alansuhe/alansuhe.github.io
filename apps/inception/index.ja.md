@@ -2,7 +2,7 @@
 docId: inception-index
 fileId: index
 lang: ja
-title: 睡眠Inception
+title: 夢境インセプション
 description: 
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
@@ -25,6 +25,9 @@ description:
 - 日々のマインドフルネス練習、積極的な自己対話を構築
 - 就寝前の心理的准备、リラックスした状態でより良い効果を得る
 - 心理的弾力性を高め、成長志向の思考を育む
+
+### 高度な機能
+- プレミアムにアップグレードすると、ユーザーは独自の埋め込み情報を作成および編集できます
 
 積極的な心理暗示を日々の習慣にし、平静の中で内的な成長を達成しましょう。
 

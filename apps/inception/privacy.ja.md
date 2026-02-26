@@ -5,7 +5,7 @@ lang: ja
 author: Alan
 date: '2026-02-23'
 title: "アプリ ユーザープライバシーポリシー"
-description: "睡眠Inception"
+description: "夢境インセプション"
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
 

@@ -5,7 +5,7 @@ lang: zh-Hant
 author: Alan
 date: '2026-02-23'
 title: "隱私權政策"
-description: "睡眠植入"
+description: "夢境暗示"
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
 

@@ -4,7 +4,7 @@ fileId: index
 lang: zh-Hant
 author: Alan
 date: '2026-02-23'
-title: 睡眠植入
+title: 夢境暗示
 description: 
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
@@ -27,6 +27,9 @@ description:
 - 日常正念練習，建立積極自我對話
 - 入睡前的心理建設，在放鬆狀態下獲得更佳效果
 - 提升心理韌性，培養成長型思維
+
+### 高級功能：
+- 訂閱升級後，用戶可以自己創作和編輯植入資訊
 
 讓積極的心理暗示成為你的日常習慣，在平靜中獲得內在成長。
 

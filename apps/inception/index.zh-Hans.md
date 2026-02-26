@@ -4,7 +4,7 @@ fileId: index
 lang: zh-Hans
 author: Alan
 date: '2026-02-23'
-title: "睡眠植入"
+title: "梦境暗示"
 description: "App 说明"
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
@@ -27,6 +27,9 @@ description: "App 说明"
 - 日常正念练习，建立积极自我对话
 - 入睡前的心理建设，在放松状态下获得更佳效果
 - 提升心理韧性，培养成长型思维
+
+### 高级功能：
+- 订阅升级后，用户可以自己创作和编辑植入信息
 
 让积极的心理暗示成为你的日常习惯，在平静中获得内在成长。
 
