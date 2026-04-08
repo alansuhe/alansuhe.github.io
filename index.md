@@ -64,7 +64,7 @@ description: 应用下载中心
 <div class="app-card">
 <a href="apps/lb/index.html" class="app-header-link">
 <img src="/apps/lb/assets/icon.png" alt="Listen Bot" class="app-icon">
-<span class="app-title">听写助手 · Listen Bot</span>
+<span class="app-title">听小机 · Listen Bot</span>
 </a>
 <div class="app-desc">语音转文字助手</div>
 <div class="app-links">
