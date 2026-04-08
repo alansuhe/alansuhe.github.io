@@ -23,6 +23,7 @@ description: 应用下载中心
 </div>
 <div>易经占卜工具</div>
 <div class="app-links">
+<a href="apps/yi/index.html">详情</a> ·
 <a href="https://apps.apple.com/app/id1533516434">App Store</a> ·
 <a href="https://play.google.com/store/apps/details?id=me.suhe.yi">Google Play</a> ·
 <a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a>
@@ -37,6 +38,7 @@ description: 应用下载中心
 </div>
 <div>日行一善，积善改命</div>
 <div class="app-links">
+<a href="apps/ggg/index.html">详情</a> ·
 <a href="https://apps.apple.com/app/id6736358985">App Store</a> ·
 <a href="https://play.google.com/store/apps/details?id=me.suhe.ggg">Google Play</a> ·
 <a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a>
@@ -51,6 +53,7 @@ description: 应用下载中心
 </div>
 <div>心理暗示 · 积极肯定</div>
 <div class="app-links">
+<a href="apps/inception/index.html">详情</a> ·
 <a href="https://apps.apple.com/app/id6759485022">App Store</a> ·
 <a href="https://play.google.com/store/apps/details?id=me.suhe.inception">Google Play</a> ·
 <a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a>
@@ -65,6 +68,7 @@ description: 应用下载中心
 </div>
 <div>语音转文字助手</div>
 <div class="app-links">
+<a href="apps/lb/index.html">详情</a> ·
 <a href="https://apps.apple.com/app/id6749611426">App Store</a> ·
 <a href="https://play.google.com/store/apps/details?id=me.suhe.listenbot">Google Play</a> ·
 <a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a>
@@ -79,6 +83,7 @@ description: 应用下载中心
 </div>
 <div>AI 会话管理桌面工具</div>
 <div class="app-links">
+<a href="apps/all-my-ai/index.html">详情</a> ·
 <a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a>
 </div>
 <div class="platform">macOS 12+ (Apple Silicon)</div>
