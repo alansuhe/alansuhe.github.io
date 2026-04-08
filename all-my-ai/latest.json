@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "date": "2026-04-08",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/alansuhe/alansuhe.github.io/releases/download/all-my-ai-v0.1.0/All%20My%20AI_0.1.0_aarch64.dmg",
+      "signature": ""
+    }
+  }
+}
