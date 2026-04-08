@@ -50,7 +50,7 @@ description: 应用下载中心
 <div class="app-card">
 <a href="apps/inception/index.html" class="app-header-link">
 <img src="/apps/inception/assets/icon.png" alt="Sueño Inception" class="app-icon">
-<span class="app-title">Sueño Inception</span>
+<span class="app-title">梦境暗示 · Sueño Inception</span>
 </a>
 <div class="app-desc">心理暗示 · 积极肯定</div>
 <div class="app-links">
@@ -64,7 +64,7 @@ description: 应用下载中心
 <div class="app-card">
 <a href="apps/lb/index.html" class="app-header-link">
 <img src="/apps/lb/assets/icon.png" alt="Listen Bot" class="app-icon">
-<span class="app-title">Listen Bot</span>
+<span class="app-title">听写助手 · Listen Bot</span>
 </a>
 <div class="app-desc">语音转文字助手</div>
 <div class="app-links">
