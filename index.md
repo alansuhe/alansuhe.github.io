@@ -20,7 +20,7 @@ description: 应用下载中心
 <div class="app-grid">
 
 <div class="app-card">
-<a href="apps/yi/index.html" class="app-header-link">
+<a href="apps/yi/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/yi/assets/icon.png" alt="学易" class="app-icon">
 <span class="app-title">学易 · IChing Life</span>
 </a>
@@ -34,7 +34,7 @@ description: 应用下载中心
 </div>
 
 <div class="app-card">
-<a href="apps/ggg/index.html" class="app-header-link">
+<a href="apps/ggg/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/ggg/assets/icon.png" alt="功过格" class="app-icon">
 <span class="app-title">功过格 · Gong Guo Ge</span>
 </a>
@@ -48,7 +48,7 @@ description: 应用下载中心
 </div>
 
 <div class="app-card">
-<a href="apps/inception/index.html" class="app-header-link">
+<a href="apps/inception/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/inception/assets/icon.png" alt="Sueño Inception" class="app-icon">
 <span class="app-title">梦境暗示 · Sueño Inception</span>
 </a>
@@ -62,7 +62,7 @@ description: 应用下载中心
 </div>
 
 <div class="app-card">
-<a href="apps/lb/index.html" class="app-header-link">
+<a href="apps/lb/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/lb/assets/icon.png" alt="Listen Bot" class="app-icon">
 <span class="app-title">听小机 · Listen Bot</span>
 </a>
@@ -76,7 +76,7 @@ description: 应用下载中心
 </div>
 
 <div class="app-card">
-<a href="apps/all-my-ai/index.html" class="app-header-link">
+<a href="apps/all-my-ai/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/all-my-ai/assets/icon.png" alt="All My AI" class="app-icon">
 <span class="app-title">All My AI</span>
 </a>
