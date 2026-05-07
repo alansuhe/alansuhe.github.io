@@ -93,5 +93,4 @@ description: 应用下载中心
 
 ## 其他
 
-- [卦金购买](market/get-coin-cn.md)
 - [内购风险说明](market/iap-precautions.md)
