@@ -75,18 +75,6 @@ description: 应用下载中心
 <div class="platform">iOS · Android</div>
 </div>
 
-<div class="app-card">
-<a href="apps/all-my-ai/index.zh-Hans.html" class="app-header-link">
-<img src="/apps/all-my-ai/assets/icon.png" alt="All My AI" class="app-icon">
-<span class="app-title">All My AI</span>
-</a>
-<div class="app-desc">AI 会话管理桌面工具</div>
-<div class="app-links">
-<a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a>
-</div>
-<div class="platform">macOS 12+ (Apple Silicon)</div>
-</div>
-
 </div>
 
 ---
