@@ -1,0 +1,40 @@
+port: 7890
+socks-port: 7891
+allow-lan: false
+mode: rule
+log-level: info
+
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  nameserver:
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
+
+proxies:
+  - name: Oracle-Reality
+    type: vless
+    server: 161.33.44.0
+    port: 443
+    uuid: b59b35ab-b8e8-470c-bc59-97e9a113e342
+    encryption: none
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.cloudflare.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: kZp5jPBbzRzv5NLCYnDlTwF89N6cySAfOJzvx98Q2CQ
+      short-id: 96475aa1ae94dbe5
+
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - Oracle-Reality
+      - DIRECT
+
+rules:
+  - GEOIP,CN,DIRECT
+  - MATCH,Proxy
