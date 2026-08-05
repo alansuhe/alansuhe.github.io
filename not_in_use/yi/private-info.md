@@ -1,7 +1,7 @@
 ---
 author: Alan
 date: '2026-03-14'
-title: "学易 (ichingLife) App 隐私政策"
+title: "学易 (iching Life) App 隐私政策"
 tags:
   - yi
   - ichingLife
@@ -9,9 +9,9 @@ tags:
 description: 学易 App 隐私政策
 ---
 
-# 学易 (ichingLife) App 隐私政策
+# 学易 (iching Life) App 隐私政策
 
-本隐私政策适用于“学易 (ichingLife)”App（下称“本应用”）。本应用重视并尊重您的个人信息与隐私权益，并尽量以最少、必要的方式处理数据。
+本隐私政策适用于“学易 (iching Life)”App（下称“本应用”）。本应用重视并尊重您的个人信息与隐私权益，并尽量以最少、必要的方式处理数据。
 
 如果您继续使用本应用，即表示您已阅读并理解本隐私政策。
 

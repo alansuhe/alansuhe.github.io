@@ -1,9 +1,9 @@
 ---
 author: Alan
 date: '2024-05-27'
-title: "学易 (ichingLife) App用户协议"
+title: "学易 (iching Life) App用户协议"
 tags:
-  - yi, ichingLife, app, 学易
+  - yi, iching Life, app, 学易
 description: App用户协议
 ---
 
