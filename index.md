@@ -20,6 +20,21 @@ description: 应用下载中心
 <div class="app-grid">
 
 <div class="app-card">
+<a href="apps/focusbrief/index.zh-Hans.html" class="app-header-link">
+<img src="/apps/focusbrief/assets/icon.png" alt="焦点中心" class="app-icon">
+<span class="app-title">焦点中心 · Focus Brief</span>
+</a>
+<div class="app-desc">聚焦重要信息的焦点中心</div>
+<div class="app-links">
+<!--
+<a href="https://apps.apple.com/app/id6803768961">App Store</a> ·
+<a href="https://play.google.com/store/apps/details?id=me.suhe.focusbrief">Google Play</a>
+-->
+</div>
+<div class="platform">iOS · Android（发布前）</div>
+</div>
+
+<div class="app-card">
 <a href="apps/yi/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/yi/assets/icon.png" alt="学易" class="app-icon">
 <span class="app-title">学易 · IChing Life</span>
