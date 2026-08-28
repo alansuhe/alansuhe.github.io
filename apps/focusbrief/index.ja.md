@@ -7,18 +7,34 @@ description: "Focus Brief"
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
 
-![icon](assets/icon.png)
+<img src="assets/icon.png" alt="Focus Brief" width="64" height="64">
 
-**Focus Brief**
+## Summary
 
-大切な情報に集中するための情報センターです。
+重要な情報に集中し続けるためのアプリです。
 
-<!--
-## Apple (iOS)
+## Intro
 
-- [App Store](https://apps.apple.com/app/id6803768961)
+Focus Brief（フォーカスブリーフ）は、重要な情報に集中し続けるためのアプリです。
 
-## Android
+日々の情報の洪水や不要な雑音から離れ、自分だけのフォーカスセンターを作りましょう。
 
-- [Google Play](https://play.google.com/store/apps/details?id=me.suhe.focusbrief)
--->
+インターフェースはシンプルでクリーン。
+サインアップやログインは不要。開いてすぐに使えます。
+個人データは端末内だけに保存され、クラウドには送信されないため、プライバシーを守れます。
+
+プリセットのトピックを選ぶことも、自分専用のフォーカストピックや情報ソースを作ることもできます。Focus Brief は複数のソースから最新コンテンツを取得し、フィルタリング、重複除去、整理を行ったうえで、簡潔な要約として表示し、無駄な読書を減らします。
+
+主な機能:
+
+* トピックごとに最新情報を整理
+* プリセットとカスタムのフォーカストピックに対応
+* 複数の公開情報ソースに対応
+* 手動更新と定期リマインダー
+* 重要な内容を保存
+* 元のタイトル、ソース、リンクを保持
+* 言語、地域、表示設定に対応
+
+## Keywords
+
+RSSリーダー,情報整理,パーソナルフィード,記事収集,デイリーブリーフ,記事保存,情報源管理,プライバシー,登録不要
