@@ -9,49 +9,62 @@ appName: iChing Life
 
 ![og](assets/icon-1.png)
 
-**iChing Life is a comprehensive I Ching tool designed for both everyday use and in-depth study.**
+## Apply I Ching wisdom to daily life
 
-Ready to use upon installation, no registration required, and no personal data is collected.  
-All divination records are stored locally only.  
-No cloud, no distractions, no binding—pure and direct experience for your peace of mind.
+Explore ancient wisdom and bring the I Ching into modern life.
 
-We aim to bring the wisdom of I Ching into modern daily life through technology.
+When unsure about a decision, consult a hexagram. Traditional casting and interpretation methods offer guidance for everyday decisions.
 
----
+iChing Life is a comprehensive I Ching app for both divination and study.
 
-### 1. Accessible for Everyone
+Use it as soon as you install it, with no registration or login. All consultation records stay on your device.
+Enjoy a simple, distraction-free experience with no account to link.
 
-**No prior knowledge needed—anyone can easily complete a full divination for any concern.**
+The app is designed for two groups:
 
-* Step-by-step guidance from asking your question, choosing a method, casting the hexagram, to interpreting the result.
-* Multiple traditional casting methods available, including Da Yan, coin toss, simplified casting, and drawing lots. Choose manual for ritual or automatic for efficiency.
-* All divination content and results are automatically saved locally for easy review and comparison.
-* Built-in AI I Ching assistant is always available to help you understand hexagrams, spot trends, and provide supporting information.
+1. Everyday users who want to cast and interpret hexagrams on their own
+2. I Ching enthusiasts and professionals
 
----
+## 1. Easy for everyone
 
-### 2. Advanced Features for Learners and Professionals
+**Complete a consultation with no prior knowledge of the I Ching.**
 
-**iChing Life is also a pocket toolbox for I Ching students and experts.**
+- Clear guidance at every step, from asking a question and choosing a method to casting a hexagram and interpreting the result.
 
-* Fast hexagram lookup by upper/lower trigram combinations, yin-yang line switching, hexagram sequence song, and keyword search for quick access.
-* Interactive features like drawing hexagrams and guessing names help reinforce memory of the 64 hexagrams’ structure and names.
-* Classic theories such as Jing Fang’s Na Jia, Xiao Xi hexagrams, Yi Lin, Zhu Xi’s methods, and more are integrated interactively for easy reference, comparison, and practice.
+- Several traditional casting methods, including Da Yan, coin toss, simplified casting, and drawing lots.
 
----
+- Practical, intuitive casting that helps you stay focused. Choose manual mode for a sense of ritual or automatic mode for speed.
 
-Whether you're a casual user seeking guidance, a beginner learning I Ching, or a dedicated researcher,  
-**iChing Life aims to be your quiet and trustworthy companion.**
+- Questions and results from standard consultations can be saved on your device for later review and comparison.
 
-### Apple (iOS) App Store
+- AI-assisted interpretation offers clear explanations based on your question and hexagram, helping you consider other perspectives.
 
-- [iChing Life](https://apps.apple.com/app/id1533516434) Free + In-app purchases and subscriptions
+- Casting and interpretation incorporate ideas from various I Ching schools and *Takashima Ekidan* for reference and practice.
 
-### Android
+## 2. Tools for deeper study
 
-- [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Requires access to Google services.
+**A pocket toolkit for I Ching enthusiasts and professionals.**
 
-### Android Stores
+- Find hexagrams by combining upper and lower trigrams, switching yin and yang lines, or using the hexagram sequence song. Keyword search takes you straight to the hexagram you need.
 
-- [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Requires access to Google services.
-- There are also other Android app download channels. Please visit [Suhe Space](https://app.suhe.space) for more information.
+- Learn through level-based games such as drawing hexagrams and guessing their names, gradually becoming familiar with their structure.
+
+- Explore Shao Yong's theories, Jing Fang's Na Jia, the hexagrams of growth and decline (Xiao Xi), *Yi Lin*, and Zhu Xi's methods for interpreting changing lines through interactive features for quick lookup, study, and practice.
+
+## Purchases and subscriptions
+
+Standard hexagram casting, additional AI usage, some detailed reference material, and advanced features require a subscription or in-app purchase. See the app for details on included features and usage limits.
+
+## Practice mode
+
+Practice casting can be unlocked by watching a rewarded video ad. Its question and record features differ from those of standard consultations.
+
+## Apple App Store (iOS)
+
+- [iChing Life](https://apps.apple.com/app/id1533516434) Free with in-app purchases and subscriptions.
+
+## Android (Google Play)
+
+- [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Your device must be able to access Google services.
+
+- For other Android download options, visit [Suhe Space](https://app.suhe.space).
