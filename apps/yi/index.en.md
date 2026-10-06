@@ -2,8 +2,8 @@
 docId: yi-index
 fileId: index
 lang: en
-title: iChing Life
-appName: iChing Life
+title: I Ching Life
+appName: I Ching Life
 ---
 {% include lang-selector.md lang=page.lang file=page.fileId %}
 
@@ -15,10 +15,9 @@ Explore ancient wisdom and bring the I Ching into modern life.
 
 When unsure about a decision, consult a hexagram. Traditional casting and interpretation methods offer guidance for everyday decisions.
 
-iChing Life is a comprehensive I Ching app for both divination and study.
+I Ching Life is a comprehensive I Ching app for both divination and study.
 
-Use it as soon as you install it, with no registration or login. All consultation records stay on your device.
-Enjoy a simple, distraction-free experience with no account to link.
+Use it as soon as you install it, with no registration or login. Consultation records are saved on your device for easy review.
 
 The app is designed for two groups:
 
@@ -31,7 +30,7 @@ The app is designed for two groups:
 
 - Clear guidance at every step, from asking a question and choosing a method to casting a hexagram and interpreting the result.
 
-- Several traditional casting methods, including Da Yan, coin toss, simplified casting, and drawing lots.
+- Several traditional casting methods, including yarrow stalks (Da Yan), coin toss, simplified casting (Lueshi), and drawing lots.
 
 - Practical, intuitive casting that helps you stay focused. Choose manual mode for a sense of ritual or automatic mode for speed.
 
@@ -53,7 +52,7 @@ The app is designed for two groups:
 
 ## Purchases and subscriptions
 
-Standard hexagram casting, additional AI usage, some detailed reference material, and advanced features require a subscription or in-app purchase. See the app for details on included features and usage limits.
+Standard consultations, additional AI usage, some detailed reference material, and advanced features require a subscription or in-app purchase. See the app for details on included features and usage limits.
 
 ## Practice mode
 
@@ -61,7 +60,7 @@ Practice casting can be unlocked by watching a rewarded video ad. Its question a
 
 ## Apple App Store (iOS)
 
-- [iChing Life](https://apps.apple.com/app/id1533516434) Free with in-app purchases and subscriptions.
+- [I Ching Life](https://apps.apple.com/app/id1533516434) Free with in-app purchases and subscriptions.
 
 ## Android (Google Play)
 

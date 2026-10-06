@@ -17,8 +17,7 @@ Cuando tengas dudas al decidir, consulta un hexagrama. Los métodos tradicionale
 
 Vida I Ching es una aplicación completa para consultar y estudiar el I Ching.
 
-Puedes usarla en cuanto la instales, sin registrarte ni iniciar sesión. Todos los registros de consultas se guardan solo en tu dispositivo.
-Una experiencia sencilla, sin distracciones ni cuentas que vincular.
+Puedes usarla en cuanto la instales, sin registrarte ni iniciar sesión. Los registros de consultas se guardan en tu dispositivo para que puedas revisarlos cuando quieras.
 
 La aplicación está pensada para dos grupos:
 
@@ -31,7 +30,7 @@ La aplicación está pensada para dos grupos:
 
 - Indicaciones claras en cada paso: plantear la pregunta, elegir el método, obtener el hexagrama e interpretar el resultado.
 
-- Varios métodos tradicionales para obtener hexagramas, como Da Yan, lanzamiento de monedas, método simplificado y sorteo.
+- Varios métodos tradicionales para obtener hexagramas, como tallos de milenrama (Da Yan), lanzamiento de monedas, método simplificado (Lueshi) y sorteo.
 
 - Una experiencia práctica, intuitiva y fluida que facilita la concentración. Elige el modo manual para dar más espacio al ritual o el automático para ahorrar tiempo.
 
@@ -53,7 +52,7 @@ La aplicación está pensada para dos grupos:
 
 ## Compras y suscripciones
 
-La obtención de hexagramas en consultas normales, las ampliaciones de la cuota de IA, algunos materiales de consulta detallados y las funciones avanzadas requieren una suscripción o una compra dentro de la aplicación. Consulta en la aplicación las funciones incluidas y los límites de uso.
+Las consultas normales, las ampliaciones de la cuota de IA, algunos materiales de consulta detallados y las funciones avanzadas requieren una suscripción o una compra dentro de la aplicación. Consulta en la aplicación las funciones incluidas y los límites de uso.
 
 ## Modo de práctica
 
