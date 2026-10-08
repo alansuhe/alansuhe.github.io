@@ -9,11 +9,11 @@ appName: Vida I Ching
 
 ![og](assets/icon-1.png)
 
-## La sabiduría del I Ching en la vida diaria
+## Aplica la sabiduría del I Ching a tu vida
 
 Descubre una sabiduría antigua y acerca el I Ching a la vida moderna.
 
-Cuando tengas dudas al decidir, consulta un hexagrama. Los métodos tradicionales de obtención e interpretación pueden orientar tus decisiones cotidianas.
+Si no sabes qué decidir, consulta un hexagrama. Los métodos tradicionales de obtención e interpretación pueden orientar tus decisiones cotidianas.
 
 Vida I Ching es una aplicación completa para consultar y estudiar el I Ching.
 

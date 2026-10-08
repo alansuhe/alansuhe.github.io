@@ -9,11 +9,11 @@ appName: I Ching Life
 
 ![og](assets/icon-1.png)
 
-## Apply I Ching wisdom to daily life
+## Put I Ching Wisdom into Practice
 
 Explore ancient wisdom and bring the I Ching into modern life.
 
-When unsure about a decision, consult a hexagram. Traditional casting and interpretation methods offer guidance for everyday decisions.
+When undecided, consult a hexagram. Traditional casting and interpretation methods offer guidance for everyday decisions.
 
 I Ching Life is a comprehensive I Ching app for both divination and study.
 
