@@ -20,6 +20,19 @@ description: 应用下载中心
 <div class="app-grid">
 
 <div class="app-card">
+<a href="apps/picvia/index.zh-Hans.html" class="app-header-link">
+<img src="/apps/picvia/assets/icon.png" alt="照片快转 · Picvia" class="app-icon">
+<span class="app-title">照片快转 · Picvia</span>
+</a>
+<div class="app-desc">照片快速转换，格式尺寸一键搞定</div>
+<div class="app-links">
+<a href="https://apps.apple.com/app/id6824748004">App Store</a>
+</div>
+<div class="platform">iOS（iPhone 和 iPad）</div>
+</div>
+
+
+<div class="app-card">
 <a href="apps/focusbrief/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/focusbrief/assets/icon.png" alt="焦点中心" class="app-icon">
 <span class="app-title">焦点中心 · Focus Brief</span>

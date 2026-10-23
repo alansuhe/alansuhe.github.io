@@ -18,7 +18,9 @@ The App will not provide, sell, rent, share, or trade your personal information 
 
 The App also forbids any third party from collecting, editing, selling, or freely disseminating your personal information by any means. If any user of the App is found engaging in such activities, the App reserves the right to terminate the user’s service agreement immediately.  
 
+{% unless include.platform == 'ios' %}
 The Android version of the App retrieves a list of installed applications during initialization in order to detect whether Google Play Services are present, thereby determining the appropriate method for enabling in-app purchases. This information is never used for any other purpose, nor is it stored or distributed.
+{% endunless %}
 
 ## 3. Disclosure of Information  
 
