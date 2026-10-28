@@ -8,6 +8,6 @@ title: "Privacy"
 description: "Picvia"
 platform: ios
 ---
-{% include lang-selector.md lang=page.lang file=page.fileId langs="en|zh-Hans" titles="English|简体中文" extension=".html" %}
+{% include lang-selector.md lang=page.lang file=page.fileId langs="en|zh-Hans|zh-Hant|ja" titles="English|简体中文|繁體中文|日本語" extension=".html" %}
 
 {% include privacy.en.md appName=page.description platform=page.platform %}

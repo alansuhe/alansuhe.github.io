@@ -10,7 +10,7 @@ platform: ios
 appStoreId: '6824748004'
 bundleId: me.suhe.picvia
 ---
-{% include lang-selector.md lang=page.lang file=page.fileId langs="en|zh-Hans" titles="English|简体中文" extension=".html" %}
+{% include lang-selector.md lang=page.lang file=page.fileId langs="en|zh-Hans|zh-Hant|ja" titles="English|简体中文|繁體中文|日本語" extension=".html" %}
 
 <img src="assets/icon.png" alt="照片快转 · Picvia" width="64" height="64">
 
