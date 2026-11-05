@@ -20,6 +20,20 @@ description: 应用下载中心
 <div class="app-grid">
 
 <div class="app-card">
+<a href="apps/grade-saga/index.zh-Hans.html" class="app-header-link">
+<img src="/apps/grade-saga/assets/icon.png" alt="考场传奇 · Grade Saga" class="app-icon">
+<span class="app-title">考场传奇 · Grade Saga</span>
+</a>
+<div class="app-desc">趣味关卡地图，探索数理化英知识</div>
+<div class="app-links">
+<!--
+<a href="#">App Store</a>
+-->
+</div>
+<div class="platform">iOS（iPhone 和 iPad）· Android（开发中）</div>
+</div>
+
+<div class="app-card">
 <a href="apps/picvia/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/picvia/assets/icon.png" alt="照片快转 · Picvia" class="app-icon">
 <span class="app-title">照片快转 · Picvia</span>
