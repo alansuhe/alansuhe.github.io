@@ -67,3 +67,7 @@ appName: 学易
 - [googlePlay](https://play.google.com/store/apps/details?id=me.suhe.yi) 你的手机要能够访问谷歌服务。
 
 - 其他还有一些安卓app下载渠道，请到[Suhe Space](https://app.suhe.space)查看。
+
+## 相关协议
+
+[隐私政策](privacy.zh-Hans.html) · [用户协议](eula.zh-Hans.html)

@@ -67,3 +67,8 @@ appName: 学易
 - [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Googleサービスにアクセスできる端末が必要です。
 
 - その他のAndroid版のダウンロード先は、[Suhe Space](https://app.suhe.space)をご覧ください。
+
+## 規約・ポリシー
+
+[プライバシーポリシー](privacy.ja.html) · [利用規約](eula.ja.html)
+

@@ -8,7 +8,7 @@ title: "考场传奇 · Grade Saga"
 description: "趣味关卡地图，探索数理化英知识"
 bundleId: me.suhe.gradesaga
 ---
-{% include lang-selector.md lang=page.lang file=page.fileId langs="zh-Hans" titles="简体中文" extension=".html" %}
+{% include lang-selector.md lang=page.lang file=page.fileId langs="en|zh-Hans" titles="English|简体中文" extension=".html" %}
 
 <img src="assets/icon.png" alt="考场传奇 · Grade Saga" width="64" height="64">
 

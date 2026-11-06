@@ -67,3 +67,8 @@ Practice casting can be unlocked by watching a rewarded video ad. Its question a
 - [Google Play](https://play.google.com/store/apps/details?id=me.suhe.yi) Your device must be able to access Google services.
 
 - For other Android download options, visit [Suhe Space](https://app.suhe.space).
+
+## Legal
+
+[Privacy Policy](privacy.en.html) · [EULA](eula.en.html)
+
