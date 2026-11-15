@@ -33,15 +33,17 @@ Turn rote drills into interactive map exploration and quest challenges! Grade Sa
 - Self-studiers seeking to reinforce foundational math, science, and English skills and target gaps
 - Anyone who loves step-by-step progress, gamified challenges, and instant feedback
 
-## Platforms
+## Official Website
 
-Supported Platforms: iOS (iPhone & iPad) · Android (Coming Soon)
+[gradesaga.suhe.space](https://gradesaga.suhe.space)
 
-<!--
-## Download
+## Download & Platforms
 
-[Download on the App Store](https://apps.apple.com/app/id...)
--->
+- [Download on the App Store](https://apps.apple.com/app/id6829622811)
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=me.suhe.gradesaga)
+- [GitHub Releases (Android APK)](https://github.com/alansuhe/alansuhe.github.io/releases)
+
+Supported Platforms: iOS (iPhone & iPad) · Android
 
 ## Contact Us
 

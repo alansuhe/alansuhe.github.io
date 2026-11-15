@@ -26,11 +26,12 @@ description: 应用下载中心
 </a>
 <div class="app-desc">趣味关卡地图，探索数理化英知识</div>
 <div class="app-links">
-<!--
-<a href="#">App Store</a>
--->
+<a href="https://apps.apple.com/app/id6829622811">App Store</a> ·
+<a href="https://play.google.com/store/apps/details?id=me.suhe.gradesaga">Google Play</a> ·
+<a href="https://github.com/alansuhe/alansuhe.github.io/releases">GitHub</a> ·
+<a href="https://gradesaga.suhe.space">官网</a>
 </div>
-<div class="platform">iOS（iPhone 和 iPad）· Android（开发中）</div>
+<div class="platform">iOS（iPhone 和 iPad）· Android</div>
 </div>
 
 <div class="app-card">

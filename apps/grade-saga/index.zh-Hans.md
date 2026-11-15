@@ -33,15 +33,17 @@ bundleId: me.suhe.gradesaga
 - 需要巩固数学、物理、化学、英语基础知识、查漏补缺的自学者
 - 喜欢循序渐进、通过目标闯关与即时反馈提升专注度的朋友
 
+## 官方网站
+
+[gradesaga.suhe.space](https://gradesaga.suhe.space)
+
 ## 下载与支持平台
 
-支持平台：iOS（iPhone 和 iPad）· Android（即将推出）
+- [前往 App Store 下载](https://apps.apple.com/app/id6829622811)
+- [前往 Google Play 下载](https://play.google.com/store/apps/details?id=me.suhe.gradesaga)
+- [GitHub Releases（Android 安装包）](https://github.com/alansuhe/alansuhe.github.io/releases)
 
-<!--
-## 下载
-
-[前往 App Store 下载](https://apps.apple.com/app/id...)
--->
+支持平台：iOS（iPhone 和 iPad）· Android
 
 ## 联系我们
 
