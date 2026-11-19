@@ -20,6 +20,21 @@ description: 应用下载中心
 <div class="app-grid">
 
 <div class="app-card">
+<a href="apps/healthdash/index.zh-Hans.html" class="app-header-link">
+<img src="/apps/healthdash/assets/icon.png" alt="健康看板 · Health Dash" class="app-icon">
+<span class="app-title">健康看板 · Health Dash</span>
+</a>
+<div class="app-desc">本地优先的体检指标记录与趋势分析</div>
+<div class="app-links">
+<!--
+<a href="https://apps.apple.com/app/id...">App Store</a> ·
+<a href="https://play.google.com/store/apps/details?id=me.suhe.healthdash">Google Play</a>
+-->
+</div>
+<div class="platform">iOS（iPhone 和 iPad）· Android（尚未发布，敬请期待）</div>
+</div>
+
+<div class="app-card">
 <a href="apps/grade-saga/index.zh-Hans.html" class="app-header-link">
 <img src="/apps/grade-saga/assets/icon.png" alt="考场传奇 · Grade Saga" class="app-icon">
 <span class="app-title">考场传奇 · Grade Saga</span>
